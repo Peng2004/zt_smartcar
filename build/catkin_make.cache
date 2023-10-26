@@ -1,0 +1,2 @@
+qingzhou_mapping:qingzhou_nav:qingzhou_sim/qingzhou_control:qingzhou_sim/qingzhou_description:qingzhou_sim/qingzhou_gazebo:qingzhou_sim/qingzhou_rviz:steer_drive_ros/steer_bot_hardware_gazebo:steer_drive_ros/steer_drive_controller:steer_drive_ros/steer_drive_ros:steer_drive_ros/stepback_and_steerturn_recovery
+-DCATKIN_DEVEL_PREFIX=/home/peng/zt_smartcar/devel -DCMAKE_INSTALL_PREFIX=/home/peng/zt_smartcar/install -G Unix Makefiles
